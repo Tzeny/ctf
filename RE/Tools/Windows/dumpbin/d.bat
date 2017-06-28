@@ -1,0 +1,1 @@
+dumpbin.exe /headers /exports /imports /summary /TLS %*
